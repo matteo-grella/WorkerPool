@@ -1,0 +1,3 @@
+# WorkerPool
+
+WorkerPool is a structure to run a pool of worker goroutines, gracefully handling interrupt and termination signals.
